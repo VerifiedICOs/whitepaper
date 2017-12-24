@@ -1,0 +1,2 @@
+# whitepaper
+VICO token whitepaper
