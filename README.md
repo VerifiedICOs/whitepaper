@@ -18,8 +18,12 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 
 VICO Vote Tokens will allow users to list an ICO on VerifiedICOs for a 7 day time period. Once a listing is created, VICO Vote Tokens can be used to contribute/vote on an ICO listing. The ICO with the highest contribution VICO Vote Token amount after the deadline will have that amount sent to VerifiedICOs as a form of payment for an in depth analysis and listing to be completed. ICO teams will have the opporunity to submit their ICO for analysis and list via an Ethereum Smart Contract. Investors will be able to use their tokens to vote which ICO project they would like to see a review on.
 
-# Distribution
-
 # Implementation
 
 The listing process will be manually facilited by our staff until development can be satisfied.
+
+# Distribution
+
+<p align="center">
+<img src="https://i.imgur.com/YmAiz7f.png">
+</p>
