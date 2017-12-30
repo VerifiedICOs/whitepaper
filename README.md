@@ -19,3 +19,9 @@ To remain unbiased, we have created the VICO token to give the community an oppo
 # Consensus Model
 
 ICO teams will have the opporunity to submit their ICO for analysis and list via an Ethereum Smart Contract. Investors will be able to use their tokens to vote which ICO project they would like to see a review on.
+
+# Distribution Model
+
+<p align="center">
+<img src="https://i.imgur.com/YmAiz7f.png">
+</p>
