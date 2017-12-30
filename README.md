@@ -16,14 +16,22 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 
 # Consensus Model
 
-VICO Vote Tokens will allow users to list an ICO on VerifiedICOs for a 7 day time period. Once a listing is created, VICO Vote Tokens can be used to contribute/vote on an ICO listing. The ICO with the highest contribution VICO Vote Token amount after the deadline will have that amount sent to VerifiedICOs as a form of payment for an in depth analysis and listing to be completed. ICO teams will have the opporunity to submit their ICO for analysis and list via an Ethereum Smart Contract. Investors will be able to use their tokens to vote which ICO project they would like to see a review on.
+VICO Vote Tokens will allow users to list an ICO on VerifiedICOs.com for a 7 day time period. Once a listing is created, VICO Vote Tokens can be used further to contribute/vote on an ICO listing. The ICO with the highest contribution VICO Vote Token amount after the deadline will have that amount sent to VerifiedICOs in exchange for an in depth analysis and listing to be completed. ICO teams will have the opporunity to submit their ICO for analysis and list via an Ethereum Smart Contract. 
 
 # Implementation
 
-The listing process will be manually facilited by our staff until development can be satisfied.
+Listings will be manually facilited by our staff until development can be satisfied to automate the listing process. Requests to create a voteable listing should be sent to us via Email or Telegram for the time being.
 
 # Distribution
 
+VICO Vote Tokens will be delivered to a ERC20 compatible wallet via airdrop to each qualified user that completes our survey. The number of tokens distributed to each user will vary based on the information provided within the survey. The distribution and qualification process may take several days depending on the number of claims we must process.  
+
+Total Supply: 10 000 000
+### Distribution Chart
 <p align="center">
 <img src="https://i.imgur.com/YmAiz7f.png">
 </p>
+
+# Qualifications 
+
+Completing the survey more than once or on behalf of another user is strictly forbidden. We reserve the right to withhold tokens for any reason, not limited to, but including, if fraudulent or spam activity has been suspected. The airdrop may be limited to users that have a wallet balance equivalent to 0.01ETH to prevent fraudulent and spam activity during the distribution process.
