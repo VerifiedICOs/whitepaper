@@ -27,6 +27,7 @@ Listings will be manually facilited by our staff until development can be satisf
 VICO Vote Tokens will be delivered to a ERC20 compatible wallet via airdrop to each qualified user that completes our survey. The number of tokens distributed to each user will vary based on the information provided within the survey. The distribution and qualification process may take several days depending on the number of claims we must process.  
 
 ````
+Ticker: VICO
 Total Supply: 10 000 000
 ````
 
@@ -35,6 +36,6 @@ Total Supply: 10 000 000
 <img src="https://i.imgur.com/YmAiz7f.png">
 </p>
 
-# Qualifications 
+# Qualification 
 
 Completing the survey more than once or on behalf of another user is strictly forbidden. We reserve the right to withhold tokens for any reason, not limited to, but including, if fraudulent or spam activity has been suspected. The airdrop may be limited to users that have a wallet balance equivalent to 0.01ETH to prevent fraudulent and spam activity during the distribution process.
