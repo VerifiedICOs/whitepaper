@@ -22,7 +22,9 @@ VICO Vote Tokens will allow users to list an ICO on VerifiedICOs.com for a 7 day
 
 Listings will be manually facilited by our staff until development can be satisfied to automate the listing process via Smart Contracts on the Ethereum network. Requests to create a voteable listing should be sent to us via Email for the time being.
 
-The Verified ICOs platform is aimed to be completed by the end of January.
+The Verified ICOs platform is aimed to be completed by the end of January*.
+
+*January is an ambitious goal and may not be met.
 
 # Distribution
 
