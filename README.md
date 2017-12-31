@@ -24,7 +24,7 @@ Listings will be manually facilited by our staff until development can be satisf
 
 The Verified ICOs platform is aimed to be completed by the end of January*.
 
-*January is an ambitious goal and may not be met.
+*January is an ambitious goal and may not be met due to the nature of testing, debugging and development.
 
 # Distribution
 
