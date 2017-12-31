@@ -32,9 +32,16 @@ Total Supply: 10 000 000
 ````
 
 ### Distribution Chart
+
 <p align="center">
 <img src="https://i.imgur.com/YmAiz7f.png">
 </p>
+
+### Bounty
+
+#### Influencers
+
+Any valuable influencers within the space who promote and support our community will be entitled to free tokens.
 
 # Qualification 
 
