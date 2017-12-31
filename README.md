@@ -57,7 +57,7 @@ The founders will retain this percentage to control and expand the community ove
 
 ### Airdrop
 
-This amount will be distributed during our Airdrop event.
+This amount will be distributed during our Airdrop event. The purpose of the airdrop is to bring brand awareness to the Verified ICOs project while establishing a strong community of token holders to vote on disruptive blockchain ventures.
 
 # Qualification 
 
