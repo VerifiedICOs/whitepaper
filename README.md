@@ -53,7 +53,7 @@ Any valuable influencers within the space who promote and support our community 
 
 ### Foundation
 
-The founders will retain this percentage to control and expand the community over time. Verified ICOs goal is to continue to build helpful tools for its community and contribute to blockchain innovations.
+The founders will retain this percentage to control and expand the community over time. Verified ICO's goal is to continue to build helpful tools for its community while contributing to refined blockchain innovations.
 
 ### Airdrop
 
