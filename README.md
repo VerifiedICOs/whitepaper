@@ -41,8 +41,12 @@ Total Supply: 10 000 000
 
 #### Influencers
 
- * Blog writers
- * YouTube 
+ * Blog Writers
+ * YouTube Stars
+ * Forum Supporters
+ * Etc
+ 
+ If any of these describe you, you could potentially have the privilege of aquiring more VICO tokens.
 
 Any valuable influencers within the space who promote and support our community will be entitled to additional free tokens. The amount will vary depending on how influencial the person is and the amount of work that is put into supporting our community and project.
 
