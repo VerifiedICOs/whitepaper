@@ -41,13 +41,16 @@ Total Supply: 10 000 000
 
 #### Influencers
 
+ * Blog writers
+ * YouTube 
+
 Any valuable influencers within the space who promote and support our community will be entitled to additional free tokens. The amount will vary depending on how influencial the person is and the amount of work that is put into supporting our community and project.
 
-#### Foundation
+### Foundation
 
-The founders will retain this percentage to control and expand the community over time.
+The founders will retain this percentage to control and expand the community over time. Verified ICOs goal is to keep building helpful 
 
-#### Airdrop
+### Airdrop
 
 This amount will be distributed during our Airdrop event.
 
