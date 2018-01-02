@@ -18,6 +18,8 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 
 1. [Consensus Model](#)
 2. [Implementation](#)
+   * [Pre Implementation](#)
+   * [Full Integration](#)
 3. [Distribution](#)
    * [Distribution Chart](#)
      * [Bounty](#)
@@ -30,11 +32,23 @@ VICO Vote Tokens will allow users to list an ICO on VerifiedICOs.com for a 7 day
 
 # Implementation
 
+### Pre Implementation
+
 Listings will be manually facilited by our staff until development can be satisfied to automate the listing process via Smart Contracts on the Ethereum network. Requests to create a voteable listing should be sent to us via Email for the time being.
 
 The Verified ICOs platform is aimed to be completed by the end of January*.
 
 *January is an ambitious goal and may not be met due to the nature of testing, debugging and development.
+
+### Full Integration
+
+The team envisions a fully automated voting system built in conjunction with MetaMask for an easy to use user experience.
+
+#### Visually Explained
+
+<p align="center">
+<img src="https://i.imgur.com/klllDQH.png">
+</p>
 
 # Distribution
 
