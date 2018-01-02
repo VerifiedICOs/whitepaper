@@ -22,6 +22,7 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
    * [Distribution Chart](#)
      * [Bounty](#)
  4. [Qualification](#)
+ 5. [Disclaimer](#)
 
 # Consensus Model
 
@@ -75,3 +76,15 @@ This amount will be distributed during our Airdrop event. The purpose of the air
 # Qualification 
 
 Completing the survey more than once or on behalf of another user is strictly forbidden. We reserve the right to withhold tokens for any reason, not limited to, but including, if fraudulent or spam activity has been suspected. The airdrop may be limited to users that have a wallet balance equivalent to 0.01ETH to prevent fraudulent and spam activity during the distribution process.
+
+# Disclaimer
+
+This VICO token whitepaper is for information purposes only and is subject to change. Verified ICOs does not guarantee the accuracy of or the conclusions reached in this white paper, and this whitepaper is provided as is. Verified ICOs does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: 
+
+1. Warranties of merchantability, fitness for a particular purpose, suitability, usage, title or non-infringement.
+2. The contents of this white paper are free from error or misinformation.
+3. That such contents will not infringe third-party rights.
+ 
+Verified ICOs and its affiliates shall carry no liability for damages of any kind arising out of the use, reference to, or reliance on this white paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will Verified ICOs or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this whitepaper or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
+
+Copyright (c) 2018 Verified ICOs Without permission, anyone may use, reproduce or distribute any material in this whitepaper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited and proper credit is given.
