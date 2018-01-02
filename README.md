@@ -20,7 +20,7 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 2. [Implementation](#)
 3. [Distribution](#)
    * [Distribution Chart](#)
-     * [Influencers](#)
+     * [Bounty](#)
  4. [Qualification](#)
 
 # Consensus Model
