@@ -15,12 +15,12 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 1. [Consensus Model](#consensus-model)
 2. [Implementation](#implementation)
    * [Pre Implementation](#pre-implementation)
-   * [Full Integration](#)
-3. [Distribution](#)
-   * [Distribution Chart](#)
-     * [Bounty](#)
- 4. [Qualification](#)
- 5. [Disclaimer](#)
+   * [Full Integration](#full-intetgration)
+3. [Distribution](#distribution)
+   * [Distribution Chart](#distribution-chart)
+     * [Bounty](#bounty)
+ 4. [Qualification](#qualification)
+ 5. [Disclaimer](#disclaimer)
 
 # Consensus Model
 
