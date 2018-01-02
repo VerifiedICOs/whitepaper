@@ -17,11 +17,11 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 ### Table of Contents
 
 1. [Consensus Model](#)
-2. Implementation
-3. Distribution
-   * Distribution Chart
-     * Influencers
- 4. Qualification
+2. [Implementation](#)
+3. [Distribution](#)
+   * [Distribution Chart](#)
+     * [Influencers](#)
+ 4. [Qualification](#)
 
 # Consensus Model
 
