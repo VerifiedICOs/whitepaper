@@ -13,18 +13,21 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 ### Table of Contents
 
 1. [Consensus Model](#consensus-model)
-2. [Implementation](#implementation)
+2. [Visual Roadmap](#visual-roadmap)
+3. [Implementation](#implementation)
    * [Pre Implementation](#pre-implementation)
    * [Full Integration](#full-integration)
-3. [Distribution](#distribution)
+4. [Distribution](#distribution)
    * [Distribution Chart](#distribution-chart)
      * [Bounty](#bounty)
- 4. [Qualification](#qualification)
- 5. [Disclaimer](#disclaimer)
+5. [Qualification](#qualification)
+6. [Disclaimer](#disclaimer)
 
 # Consensus Model
 
 VICO Vote Tokens will allow users to list an ICO on VerifiedICOs.com for a 7 day time period. Once a listing is created, VICO Vote Tokens can be used further to contribute/vote on an ICO listing. The ICO with the highest contribution VICO Vote Token amount after the deadline will have that amount sent to VerifiedICOs in exchange for an in depth analysis and listing to be completed. ICO teams will have the opportunity to submit their ICO for analysis and listing via an Ethereum Smart Contract. We will facilitate the transactions using MetaMask to communicate with the Ethereum network.
+
+# Visual Roadmap
 
 <p align="center">
 <img src="https://i.imgur.com/L6GeRg7.png">
