@@ -15,7 +15,7 @@ This year we have witnessed the incredible rise of cryptocurrency prices, ICOs a
 1. [Consensus Model](#consensus-model)
 2. [Implementation](#implementation)
    * [Pre Implementation](#pre-implementation)
-   * [Full Integration](#full-intetgration)
+   * [Full Integration](#full-integration)
 3. [Distribution](#distribution)
    * [Distribution Chart](#distribution-chart)
      * [Bounty](#bounty)
