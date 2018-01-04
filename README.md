@@ -82,7 +82,7 @@ If any of these describe your profession, you could potentially have the privile
 
 Any valuable influencers within the space who promote and support our community will be entitled to additional free tokens. The amount will vary depending on how influencial the person is and the amount of work that is put into supporting our community and project.
 
-If you are eligible for bounty please 
+If you are eligible for bounty please send us an email.
 
 ### Foundation
 
