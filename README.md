@@ -59,7 +59,7 @@ VICO Vote Tokens will be delivered to a ERC20 compatible wallet via airdrop to e
 
 ````
 Ticker: VICO
-Total Supply: 10 000 000
+Total Supply: 100 000 000
 ````
 
 ### Distribution Chart
