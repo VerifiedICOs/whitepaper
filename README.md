@@ -8,7 +8,7 @@
 
 #### Abstract
 
-This year we have witnessed the incredible rise of cryptocurrency prices, ICOs and blockchain projects. There is no doubt that the amount of news appearing in the media regarding Bitcoin has been rising exponentially, both good and bad. With all this excessive exposure comes the injection of fear and uncertanty into the crypto markets. Verified ICOs has continually been providing the community with unbiased fundamental and realistic analysis on multiple ICO projects. The Verified ICOs mission is to educate and help traders and investors make wiser decisions in the volatile cryptocurrency space. To help us acheive our mission, we have created the VICO token to give the community an opportunity to vote on what projects the Verified ICOs team should analyze.
+This year we have witnessed the incredible rise of cryptocurrency prices, ICOs and blockchain projects. There is no doubt that the amount of news appearing in the media regarding Bitcoin has been rising exponentially, both good and bad. With all this excessive exposure comes the injection of fear and uncertainty into the crypto markets. Verified ICOs has continually been providing the community with unbiased fundamental and realistic analysis on multiple ICO projects. The Verified ICOs mission is to educate and help traders and investors make wiser decisions in the volatile cryptocurrency space. To help us achieve our mission, we have created the VICO token to give the community an opportunity to vote on what projects the Verified ICOs team should analyze.
 
 ### Table of Contents
 
